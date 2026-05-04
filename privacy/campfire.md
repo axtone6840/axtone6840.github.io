@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 「焚き火」プライバシーポリシー
+title: 「焚き火育成ゲーム」プライバシーポリシー
 permalink: /privacy/campfire.html
 ---
 
-# 「焚き火」プライバシーポリシー
+# 「焚き火育成ゲーム」プライバシーポリシー
 
 最終更新日: 2026 年 5 月 4 日
 
-本プライバシーポリシー（以下「本ポリシー」）は、axtone6840 が提供する Android アプリケーション「焚き火」（以下「本アプリ」）における、利用者の情報の取り扱いについて定めるものです。本アプリをご利用いただくことで、本ポリシーの内容に同意いただいたものとみなします。
+本プライバシーポリシー（以下「本ポリシー」）は、axtone6840 が提供する Android アプリケーション「焚き火育成ゲーム」（以下「本アプリ」）における、利用者の情報の取り扱いについて定めるものです。本アプリをご利用いただくことで、本ポリシーの内容に同意いただいたものとみなします。
 
 ## 1. 取得する情報
 
@@ -69,11 +69,11 @@ permalink: /privacy/campfire.html
 
 ---
 
-# Privacy Policy for "Campfire" (English)
+# Privacy Policy for "Campfire (Idle Game)" (English)
 
 Effective: May 4, 2026
 
-This privacy policy describes how the Android application "Campfire" (hereinafter the "App"), provided by axtone6840, handles user information. By using the App, you agree to the terms of this policy.
+This privacy policy describes how the Android application "Campfire (Idle Game)" (hereinafter the "App"), provided by axtone6840, handles user information. By using the App, you agree to the terms of this policy.
 
 ## 1. Information We Collect
 
