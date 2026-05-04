@@ -20,7 +20,7 @@ permalink: /privacy/campfire.html
 
 - ゲームの進行状況（火力レベル、累計 AP、所持アイテム数、雇用中の動物、最終起動時刻 など）
 
-これらは Android の `SharedPreferences` を用いて利用者の端末内にのみ保存されます。本アプリの開発者やサーバーには送信されません。
+これらの情報は利用者の端末内にのみ保存され、本アプリの開発者やサーバーへ送信されることはありません。アプリをアンインストールすると、これらの情報も端末から削除されます。
 
 ### 1.2 広告配信のために取得される情報
 
@@ -81,7 +81,7 @@ The App does not collect personally identifiable information such as your name, 
 
 ### 1.1 Locally Stored Data
 
-The App stores game progress (fire level, accumulated AP, item counts, active guardian animals, last open timestamp, etc.) on your device using Android's `SharedPreferences`. This data never leaves your device and is not transmitted to the developer's servers.
+The App stores game progress (fire level, accumulated AP, item counts, active guardian animals, last open timestamp, etc.) only on your device. This data never leaves your device and is not transmitted to the developer's servers. Uninstalling the App removes this data from your device.
 
 ### 1.2 Information Collected via Advertising
 
